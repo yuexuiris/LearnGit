@@ -1,3 +1,3 @@
 # LearnGit
 To start learning Git
-Datawhale - Data Analysis w/ Python
+Datawhale - Python for Data Analysis 2nd
