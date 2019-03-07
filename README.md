@@ -1,3 +1,4 @@
 # LearnGit
-To start learning Git
-Datawhale - Python for Data Analysis 2nd
+First repository commited
+Start the coding on Github with Python 
+Datawhale Project - Python for Data Analysis 2nd
